@@ -1,0 +1,3 @@
+To run the file with gui :
+ 1) open gui.py
+ 2) you need to have pyside2 installed
